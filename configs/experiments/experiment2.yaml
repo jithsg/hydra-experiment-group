@@ -1,0 +1,3 @@
+model: vgg16
+optimizer: sgd
+lr: 0.01

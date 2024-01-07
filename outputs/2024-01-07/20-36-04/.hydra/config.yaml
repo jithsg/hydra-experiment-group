@@ -1,0 +1,4 @@
+experiments:
+  model: resnet18
+  optimizer: adam
+  lr: 0.001
